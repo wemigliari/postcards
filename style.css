@@ -67,6 +67,21 @@ padding: 0;
   margin: 0 0 0 0;
 }
 
+aa:link {
+  color: #2874A6;
+  text-decoration: none;
+}
+
+aa:visited {
+  color: silver;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+aa:hover {
+  color: #2874A6;
+  text-decoration: underline;
+}
 
 nav {
   width: 100%;
